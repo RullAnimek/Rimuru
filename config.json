@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285607831412@s.whatsapp.net","6285607831412@s.whatsapp.net"],
+    "ownerName": "Slime Bot Whatsapp",
+    "instagram" : "https://instagram.com",
+    "botName": "Slime Bot ",
+    "footer": "SlimeBot Whatsapp",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": false,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 30,
+    "gcount": {
+        "prem": 1000000,
+        "user": 15
+    }
+}
